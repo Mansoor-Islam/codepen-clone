@@ -1,3 +1,11 @@
+# CodePen Clone
+
+CodePen Clone Built Using MUI, TypeScript, Next.js
+
+Here's the live version of the app: https://codepen-clone-mmi.netlify.app/
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
