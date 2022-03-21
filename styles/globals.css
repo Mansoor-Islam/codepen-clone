@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.CodeMirror {
+  height: 315px !important;
+}
+
+.CodeMirror-scroll,
+.CodeMirror-gutter {
+  background-color: #1d1e22;
+}
